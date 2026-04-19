@@ -17,7 +17,12 @@ Modern ve kullanıcı dostu bir arayüze sahip olan bu uygulama, nesne yöneliml
 * **Arayüz (UI):** WPF (Windows Presentation Foundation)
 * **Geliştirme Ortamı:** Visual Studio
 
+## Ekran Görüntüleri
 
+![Birinci Resim](resim1.png)
+![İkinci Resim](resim2.png)
+![Üçüncü Resim](resim3.png)
+![Dördüncü Resim](resim4.png)
 
 ## 🚀 Nasıl Çalıştırılır?
 
